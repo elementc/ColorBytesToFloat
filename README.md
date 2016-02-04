@@ -1,8 +1,9 @@
 # Byte to UIColor
 
-Tiny tool I built for quick use of giant color pallete.
+Quick tool I built to move a giant color pallete from RBG docs to UIColor snippets. 
 
-Your lovely designers finished up their designs and sent you the color pallete in tons of RGB or hexadecimal format. Now you want to turn those into Swift UIColors. Type in quickly the values, and it will return the UIColor() string and paste it automatically to your clipboard (you can turn that off)
+Your lovely designers finished up designs and sent the team the new offical color pallete in tons of RGB or hexadecimal format. 
+Now you want to turn those into Swift UIColors. Quickly the values, and it will return the UIColor() string and paste it automatically to your clipboard (you can turn that off but it's useful if you want to not use a mouse)
 
 Simple terminal tool to do just that! 
  - Byte to float 
@@ -12,10 +13,10 @@ Simple terminal tool to do just that!
 
 Grab the entire xcode project if you like or 
 
-Clone to repo OR just grab the terminal app here http://www.johannmg.com/downloads/ColorBytesToFloat
+Clone the repo OR just grab the terminal app here http://www.johannmg.com/downloads/ColorBytesToFloat
 
-Say hi to me on [Twitter @johann_mg] :)
-[Twitter @johann_mg]: <https://github.com/joemccann/dillinger>
+If this helps any say hi on [Twitter @johann_mg] :)
+[Twitter @johann_mg]: <https://www.twitter.com/johann_mg>
 
 ##Example term
 ```Terminal
