@@ -18,7 +18,8 @@ Say hi to me on [Twitter @johann_mg] :)
 [Twitter @johann_mg]: <https://github.com/joemccann/dillinger>
 
 ##Example term
-```RGB to Swift UIColor by @johann_mg
+```Terminal
+RGB to Swift UIColor by @johann_mg
 Type `autopaste off` to disable automatic pasting to clipboard
 Modes: byte, rgb, rgba, hex. Options: help, autopaste
 Starting in rgb mode: Enter input as  RRR GGG BBB 
