@@ -23,17 +23,23 @@ RGB to Swift UIColor by @johann_mg
 Type `autopaste off` to disable automatic pasting to clipboard
 Modes: byte, rgb, rgba, hex. Options: help, autopaste
 Starting in rgb mode: Enter input as  RRR GGG BBB 
-40 40 223
+
+>>40 40 223
 UIColor(red: 0.157, green: 0.157, blue: 0.875, alpha: 1.00)
-255 0 247
+
+>>255 0 247
 UIColor(red: 1.000, green: 0.000, blue: 0.969, alpha: 1.00)
-rgba
+
+>>rgba
 Set mode to RGBA, enter input as  RRR GGG BBB AAA
-44 55 180 22
+
+>>44 55 180 22
 UIColor(red: 0.173, green: 0.216, blue: 0.706, alpha: 0.086)
-hex
+
+>>hex
 Set mode to Hex, enter input as #FAFF00, hash optional
-FAFF00
+
+>>FAFF00
 UIColor(red: 0.980, green: 1.000, blue: 0.000, alpha: 1.00)
 ```
 
