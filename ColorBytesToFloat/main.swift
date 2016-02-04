@@ -28,7 +28,7 @@ enum OperatingMode {
 // - MARK: Global Variables
 var response: String = ""
 var autoToClipboard = true
-var mode = OperatingMode.ByteToFloat
+var mode = OperatingMode.RgbToUIColor
 var kb = NSFileHandle.fileHandleWithStandardInput()
 var inputData: NSData?
 

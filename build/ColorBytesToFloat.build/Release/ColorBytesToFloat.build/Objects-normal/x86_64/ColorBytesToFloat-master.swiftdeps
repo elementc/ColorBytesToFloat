@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "dc4e559c8dcc8e313d6397fc21ce13aa"
+build_time: [507876631, 935692000]
+inputs:
+  "/Users/johannmg/dev/ios/ColorBytesToFloat/ColorBytesToFloat/main.swift": [507876620, 0]
